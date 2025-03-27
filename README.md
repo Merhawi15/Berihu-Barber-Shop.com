@@ -1,2 +1,2 @@
-# Berihu-Barber-Shop.com
-Barber Shop Repository
+# Berihu-s-Barber-Shop.com
+Barber Repository
